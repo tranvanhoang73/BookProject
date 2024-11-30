@@ -1,0 +1,7 @@
+com\mycompany\bookproject\dataconnection\dbconnection.class
+com\mycompany\bookproject\controller\BookServlet.class
+com\mycompany\bookproject\config\BookApplication.class
+com\mycompany\bookproject\resource\v1\BookResource.class
+com\mycompany\bookproject\dto\Book.class
+com\mycompany\bookproject\dao\BookDAO.class
+com\mycompany\bookproject\dao\ApiClient.class
